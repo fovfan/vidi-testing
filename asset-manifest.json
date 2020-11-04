@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/vidi-testing/static/css/main.06d635ce.chunk.css",
-    "main.js": "/vidi-testing/static/js/main.8b89fbfe.chunk.js",
-    "main.js.map": "/vidi-testing/static/js/main.8b89fbfe.chunk.js.map",
+    "main.js": "/vidi-testing/static/js/main.c18d15c7.chunk.js",
+    "main.js.map": "/vidi-testing/static/js/main.c18d15c7.chunk.js.map",
     "runtime-main.js": "/vidi-testing/static/js/runtime-main.5d03d1a6.js",
     "runtime-main.js.map": "/vidi-testing/static/js/runtime-main.5d03d1a6.js.map",
-    "static/js/2.71976a0a.chunk.js": "/vidi-testing/static/js/2.71976a0a.chunk.js",
-    "static/js/2.71976a0a.chunk.js.map": "/vidi-testing/static/js/2.71976a0a.chunk.js.map",
+    "static/js/2.ee21aa55.chunk.js": "/vidi-testing/static/js/2.ee21aa55.chunk.js",
+    "static/js/2.ee21aa55.chunk.js.map": "/vidi-testing/static/js/2.ee21aa55.chunk.js.map",
     "static/js/3.27457ecd.chunk.js": "/vidi-testing/static/js/3.27457ecd.chunk.js",
     "static/js/3.27457ecd.chunk.js.map": "/vidi-testing/static/js/3.27457ecd.chunk.js.map",
     "index.html": "/vidi-testing/index.html",
     "static/css/main.06d635ce.chunk.css.map": "/vidi-testing/static/css/main.06d635ce.chunk.css.map",
-    "static/js/2.71976a0a.chunk.js.LICENSE.txt": "/vidi-testing/static/js/2.71976a0a.chunk.js.LICENSE.txt",
+    "static/js/2.ee21aa55.chunk.js.LICENSE.txt": "/vidi-testing/static/js/2.ee21aa55.chunk.js.LICENSE.txt",
     "static/media/Bolt_icon.10e6e62a.svg": "/vidi-testing/static/media/Bolt_icon.10e6e62a.svg",
     "static/media/Shop_icon.5bbf868a.svg": "/vidi-testing/static/media/Shop_icon.5bbf868a.svg",
     "static/media/Thumbs_up_icon.f487d99d.svg": "/vidi-testing/static/media/Thumbs_up_icon.f487d99d.svg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5d03d1a6.js",
-    "static/js/2.71976a0a.chunk.js",
+    "static/js/2.ee21aa55.chunk.js",
     "static/css/main.06d635ce.chunk.css",
-    "static/js/main.8b89fbfe.chunk.js"
+    "static/js/main.c18d15c7.chunk.js"
   ]
 }
