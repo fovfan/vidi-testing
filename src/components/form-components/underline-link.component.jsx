@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { Link } from 'react-router-dom';
 
 const StyledLinkContainer = styled.div`
   margin-top: 15px;
@@ -12,9 +13,12 @@ const StyledLink = styled.a`
 `;
 const UnderlineLink = ({ linkTo, text }) => {
   return (
-    <StyledLinkContainer>
-      <StyledLink href={linkTo}>{text}</StyledLink>
-    </StyledLinkContainer>
+    <Link to={linkTo}>
+      <StyledLinkContainer>
+        <StyledLink>{text}</StyledLink>
+      </StyledLinkContainer>
+    </Link>
+  
   );
 };
 
